@@ -22,8 +22,6 @@ By using MathWorks tools, you can understand that the algebraic model that forms
 
 + Comparison of behavior between state averaging model by Simulink&reg; and circuit model by Simscape.
 ![A716AE2A-B5E8-42A4-BB32-4712E4C2022E](https://user-images.githubusercontent.com/62166747/211949412-c471c99b-b337-4fff-8c30-9c10d2926784.gif)
-
-+Compare Simulink output and Simscape output.
 ![Snag_15442441](https://user-images.githubusercontent.com/62166747/211949419-9510395b-087c-4b91-aa1f-5d62330c254a.png)
 
 
