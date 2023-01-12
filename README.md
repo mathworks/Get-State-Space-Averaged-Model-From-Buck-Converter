@@ -17,12 +17,15 @@ This contents is a demo file that allows you to experience the derivation of a s
 By using MathWorks tools, you can understand that the algebraic model that forms the basis of the theory, the transfer function model, and the graphical simulation environment that enables block diagrams and schematic descriptions can be performed in a single environment.
 
 + State averaging model computation with Symbolic Math Toolbox&trade;.
-![Snag_15455aae](/uploads/a1b8fdf70c5799a4662aa2e380db1747/Snag_15455aae.png)
+![Snag_15455aae](https://user-images.githubusercontent.com/62166747/211949405-959c1c36-df73-4708-ac66-7af911cef901.png)
 
-+ Comparison of behavior between state averaging model by Simulink&reg; and circuit model by Simscape &trade;.
-![A716AE2A-B5E8-42A4-BB32-4712E4C2022E](/uploads/178769f6666ff9b0a7b9b4af93069564/A716AE2A-B5E8-42A4-BB32-4712E4C2022E.GIF)
 
-![Snag_15442441](/uploads/f7e642fad5b2a74450db67d340a6a581/Snag_15442441.png)
++ Comparison of behavior between state averaging model by Simulink&reg; and circuit model by Simscape.
+![A716AE2A-B5E8-42A4-BB32-4712E4C2022E](https://user-images.githubusercontent.com/62166747/211949412-c471c99b-b337-4fff-8c30-9c10d2926784.gif)
+
++Compare Simulink output and Simscape output.
+![Snag_15442441](https://user-images.githubusercontent.com/62166747/211949419-9510395b-087c-4b91-aa1f-5d62330c254a.png)
+
 
 ## Setup 
 
