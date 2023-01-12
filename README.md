@@ -1,7 +1,7 @@
 # Get-State-Space-Averaged-Model-From-Buck-Converter
 <!-- This is the "Title of the contribution" that was approved during the Community Contribution Review Process --> 
 
-[![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/####-file-exchange-title)  
+[![View Get-State-Space-Averaged-Model-From-Buck-Converter on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/123150-get-state-space-averaged-model-from-buck-converter)
 <!-- Add this icon to the README if this repo also appears on File Exchange via the "Connect to GitHub" feature --> 
 ### These Contents are writhed in Japanese(本コンテンツは全て日本語で記述されています)
 
