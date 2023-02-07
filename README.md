@@ -30,12 +30,12 @@ By using MathWorks tools, you can understand that the algebraic model that forms
 To Run:
 1. プロジェクトファイルを開く : Get-State-Space-Averaged-Model-From-Buck-Converter.proj
 2. Scriptフォルダを開く.
-3. Scrpit01~04を順番に実行することでサンプル動作を体験できます.
+3. Scrpit01~05を順番に実行することでサンプル動作を体験できます.
 
 To Run:
 1. Open Project File : Get-State-Space-Averaged-Model-From-Buck-Converter.proj
 2. Click Project Shortcut Tab.
-3. You can experience sample operations by executing Scrpit01~04 in order.
+3. You can experience sample operations by executing Scrpit01~05 in order.
 
 
 ### MathWorks Products (https://www.mathworks.com)
