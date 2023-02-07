@@ -46,6 +46,7 @@ Requires MATLAB release R2022b or newer
 - [Control System Toolbox &trade;](https://jp.mathworks.com/products/control.html?s_tid=srchtitle_control%2520system%2520toolbox_2)
 - [Simulink &reg;](https://jp.mathworks.com/products/simulink.html?s_tid=srchtitle_Simulink_2)
 - [Simscape &trade;](https://jp.mathworks.com/products/simscape.html?s_tid=srchtitle_Simscape_2)
+- [System Identification Toolbox &trade;](https://jp.mathworks.com/products/sysid.html) Required only when Script 05 is executed
 
 
 ## License
